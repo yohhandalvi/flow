@@ -1,0 +1,2 @@
+<p>Hi <?php echo $data['name']; ?>,</p>
+<p>Click on the following link to reset your password - <a href="<?php echo site_url('admin/reset-password?key='.$data['forgot_password_key']); ?>">Reset Password</a></p>

@@ -1,0 +1,12 @@
+<script src="<?php echo base_url('resources/front/js/vendor/bootstrap.bundle.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/perfect-scrollbar.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/Chart.bundle.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/Sortable.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/jquery.validate/jquery.validate.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/jquery.validate/additional-methods.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/datatables.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/select2.full.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/mousetrap.min.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/vendor/ckeditor5-build-classic/ckeditor.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/dore.script.js'); ?>"></script>
+<script src="<?php echo base_url('resources/front/js/scripts.js'); ?>"></script>
