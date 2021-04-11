@@ -507,7 +507,7 @@ class Flow extends AdminController {
                                                 $right_answer = (isset($answer['right_answer']) && $answer['right_answer'] == $akey) ? 1 : 0;
 
                                                 $answer_data = array(
-                                                    'activity_question_id' => $question_id,
+                                                    'flow_question_id' => $question_id,
                                                     'type' => $answer['type'],
                                                     'right_answer' => $right_answer
                                                 );
