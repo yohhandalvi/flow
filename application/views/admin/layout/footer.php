@@ -9,7 +9,7 @@
                         <div class="col-sm-6 d-none d-sm-block">
                             <ul class="breadcrumb pt-0 pr-0 float-right">
                                 <li class="breadcrumb-item mb-0">
-                                    <a href="#" class="btn-link">Made With Love - The Lazy Baboons</a>
+                                    <a href="#" class="btn-link">Made With Love</a>
                                 </li>
                             </ul>
                         </div>
